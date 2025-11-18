@@ -1,7 +1,43 @@
 body {
     background-color: rgb(153, 95, 95) !important;
     text-align: center;
-    padding: 50px;
+    padding: 10px;
     margin-left: 20px;
     margin-right: auto;
 }
+.section {
+    margin: 40px auto;
+    padding: 10px;
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    background-color: #3aa9b3;
+}
+
+.my-card {
+    margin: 100px auto;  
+    padding: 20px;
+    max-width: 400px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 5px 12px rgba(0, 0, 0, 0.2);
+    background-color: #ef2f2f;
+}
+.aos-section {
+    margin: 500px auto;
+    padding: 20px;
+    max-width: 600px;
+    border: 2px solid #444;
+    border-radius: 12px;
+    background-color: #f4a261;
+    text-align: center;
+}
+
+.discussion-section {
+    color: #fff;
+    font-weight: bold;
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.3);
+    text-align: center;
+    background-color: #264653;
+    margin: 50px auto;
+    padding: 20px;
+}   
