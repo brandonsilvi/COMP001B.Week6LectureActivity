@@ -2,8 +2,7 @@ body {
     background-color: rgb(153, 95, 95) !important;
     text-align: center;
     padding: 10px;
-    margin-left: 20px;
-    margin-right: auto;
+    margin: 0 auto;
 }
 .section {
     margin: 40px auto;
@@ -23,7 +22,7 @@ body {
     background-color: #ef2f2f;
 }
 .aos-section {
-    margin: 500px auto;
+    margin: 300px auto;
     padding: 20px;
     max-width: 600px;
     border: 2px solid #444;
